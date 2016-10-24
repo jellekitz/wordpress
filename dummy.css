@@ -1,0 +1,76 @@
+body{
+    background-color: black;
+}
+
+#validatie img {
+            height: 1em;
+            width: auto;
+            border: 0;
+            margin: 0 .3em;
+        }
+
+#geheel{
+    width: 100%;
+    margin: auto;
+    width: 90%;
+}
+
+footer{
+    background-color: white;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: lightgray;
+}
+
+/*divs*/
+
+#alles{
+    width: 100%;
+}
+
+
+
+#midden {
+  width:50%;
+  height:450px;
+  float:left;
+  background-color:white;
+}
+
+#tekst1{
+    margin-left: 20px;
+}
+
+#rechts {
+  width:50%;
+  height:450px;
+  float:left;
+  background-color:white;
+}
+
+#zoeken {
+    padding: 1em;
+}
